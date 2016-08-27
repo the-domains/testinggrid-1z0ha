@@ -1,0 +1,14 @@
+layout_spectrum: 0.7848376829642802
+typography_spectrum: 0.6985278446227312
+color:
+  brandStrength: 0.47464379388839006
+  lightness: 0.949440042488277
+  saturation: 0.39626571349799633
+  rhythmicContrast: 0.7477434158790857
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: TestingGrid
